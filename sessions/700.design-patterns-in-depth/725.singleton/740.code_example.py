@@ -22,3 +22,4 @@ if __name__ == "__main__":
         print('Singleton works')
     else:
         print('singleton failed')
+ 
